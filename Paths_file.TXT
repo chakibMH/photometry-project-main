@@ -1,0 +1,4 @@
+file_intesite = "objet1PNG_SII_VISION/light_intensities.txt"
+file_direction = "objet1PNG_SII_VISION/light_directions.txt"
+file_mask = "objet1PNG_SII_VISION/mask.png"
+file_names = "objet1PNG_SII_VISION/filenames.txt"
